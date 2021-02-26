@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "arataoreoproject",
+  "private_key_id": "5ba4a3ec08297d8e931410c7458288d2db5fdf17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCafuV0NiR+hBR+\nTa5jKKsu+mOdcFZ43OOw3EWv9vOLkGAWgZXFfuru6MdyJml6ftle61YtiyKYwfcH\npvk5KMlRKA8iCKIETw7R3WEbsDw6tIh7B6Heu7qAd0HiUE3P1Si2ITPDP+ZyPyrv\nWEk8ZQMuIwjDSPDd6J056IuXtkgpoRLIjN6jY7fgPbZjOnJOPpWMGadM2trvu//w\nMMFzn8lGpIb30NmT/dncRYcmHNb7Tb6r77kzv9zlw1bqpy9YQreHdBOpa/OooU25\nzjWX9fwWZwuiA2BCCHexnwRT6yy8pZw+qlQMmY4Twrp6HjQuMyUeweDHqL+sEo5z\nEWUYdIY7AgMBAAECgf8f/CWE6bCkgLO9cleoL8NA9pWpApjkbNa2xuOminnhawJ5\nplpbiOsaixa/izRLJ/fYruAojaWb+owqCWePbeI/6ws3AJKKUdO/nxV7pgDSJo4a\n6nmYo0T5U7dQI0/4tyi2jCkrQw9yl6FL6/s9hawi4R3vUCqNxprGYl6ECjjmZSAe\nJMzgUvNwxDrnpqi63/tToSQOY5GVZjRC2XFG3mjb+sRFKB/us6MlDp1U8BsYZ9zA\n4VlseYB1tKok0WHMQNqMvmBqRYdPWfo0ywzHfhH+0/g4LRx0bb/mm3/kCz6jVtua\nzT+YA+JDg98FdOyurr3W7EU9vsPPHxpfLw2nelkCgYEAzElGqyIuKkcj8yeW+QR6\nii2GDtEX9DcrMtVwJ/DW2m1FclNB1dDhosNm8z4EYb/ldvc4q9H2j/td3i0lFKjL\nlLLpmCVgffubOjV7MwkjZdidIZFb8Dj41BX+cobOUPhmzYRCwZ/ZdCOdCzf4e0Ig\nHjHFkRYoJYyE5Et1+Nn7v4UCgYEAwZr0e9xh3AS6v/1rnhbiav/Zyk27DX7CINuz\nimkhZBZIvH5JfBYPzZMZs9bvs90psTOLFZLwTTuB2hIe9eZb1n+K1oW+ct3ntQyt\ni95Q5f98zNrRUAGfjrINut3O68sVxVadad9m2cxop9ZMoBlxlU81vf61tG1inhyP\ntXqyur8CgYEAqO9f1V2qt6OlAwuWOc+OVn5XAiG/oWGOA7elzCHKS09ZwrU/GEZo\nkWTt2fFLRlqes8a1wsEbGO5SLc0/gNoloI5jxkICjaxoLbbUbtv7vdln975xPTKf\n8yNNDACW1TbWLNZXLi+2b+iTkhdzENsaHF4kd1rPUF3n97K/mE8LdNECgYALa7Kk\nY9m5+uVxUee5SaxNl44navJv11xoR82NiqoXl2DvDZwUH9EK1XScsT8uowtEkr/P\no/1c8Pe1/3+oDdC5FIkCIp2bdQ+oFHlgWNr41ltsUjQqvg3FgydgMJl2O2KrY3Kh\nvjX4/x/lVrTqdNXIcwW+kXnyjMlWfmTT1csZTQKBgGvbkYV1G2Nbrji0i6wX3Flm\ndPjUizdj2MLvBRdD+PcsyHg9W700jW65kJW08CaWhociTeU4yBooSLzcjitovMUW\nKF0s286BT+FgMhzAROxQgSYHnOSCIGK3wmVQHSGa7LQcWeCnvmRUvktxV95bAkln\nE0rmTNYI10f8wIpuJ0k5\n-----END PRIVATE KEY-----\n",
+  "client_email": "arata-249@arataoreoproject.iam.gserviceaccount.com",
+  "client_id": "109143206261471489459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/arata-249%40arataoreoproject.iam.gserviceaccount.com"
+}
